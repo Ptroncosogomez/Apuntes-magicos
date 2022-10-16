@@ -1,2 +1,3 @@
-# Apuntes-m-gicos
-Prueba apuntes secuencia 2022
+# Bienvenido a Apuntes-magicos
+Apuntes secuencia 2022
+
